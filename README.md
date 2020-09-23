@@ -1,7 +1,6 @@
 # **Weather-Dashboard**
 
-
-![](Weather-Dashboard/images/2020-09-23%20.png)
+![](images/2020-09-23.png)
 
 
 #**How Does It Work**
