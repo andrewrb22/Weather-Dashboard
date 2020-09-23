@@ -1,6 +1,7 @@
 # **Weather-Dashboard**
 
 ![](images/2020-09-23.png)
+![](images/screenshot.png)
 
 
 #**How Does It Work**
