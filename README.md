@@ -1,8 +1,9 @@
 # **Weather-Dashboard**
-![Screen Shot](images\2020-09-23 (1).png)
-![Screen Shot](images\2020-09-23.png)
 
 
+![Alt text](images\2020-09-23.png)
+
+![Alt text](images\screenshot.png)
 
 #**How Does It Work**
 ✓ User can search for weather reports by city using the openweathermap API.
